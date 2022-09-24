@@ -2,16 +2,16 @@
 using namespace std;
 int main()
 {
-	float a,b;
-	cout<<"ingrese a b:"; cin>>a>>b;
-	if(a>b)
+	float JAGC_a,JAGC_b;
+	cout<<"ingrese a b:"; cin>>JAGC_a>>JAGC_b;
+	if(JAGC_a>JAGC_b)
 	{
-	  cout<<a<<" es mayor a "<<b<<endl;
+	  cout<<JAGC_a<<" es mayor a "<<JAGC_b<<endl;
 
 
 	}else{
 
-	  cout<<b<<" es mayor a "<<a<<endl;
+	  cout<<JAGC_b<<" es mayor a "<<JAGC_a<<endl;
 
 
 	}

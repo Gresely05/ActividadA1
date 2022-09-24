@@ -5,12 +5,12 @@ using namespace std;
 int main()
 {
 
- float x,y,z;
+ float JAGC_x,JAGC_y,JAGC_z;
  cout<<"Ingrese 2 numero x y :";
- cin>>x>>y;
- z=x+y;
+ cin>>JAGC_x>>JAGC_y;
+ JAGC_z=JAGC_x+JAGC_y;
  cout<<"El resutado es : ";
- cout<<z<<endl;
+ cout<<JAGC_z<<endl;
 
  return 0;
 
